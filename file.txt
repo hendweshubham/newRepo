@@ -1,0 +1,9 @@
+This is new file
+This is an update for feature branch
+<<<<<<< HEAD
+This is an update in Main branch file
+Main branch update
+=======
+Feature branch update
+>>>>>>> feature-branch
+This is a merged update from both branches.
