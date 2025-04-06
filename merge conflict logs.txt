@@ -1,0 +1,25 @@
+$ git log
+commit 81aff2cf119b844b4baaab9402ac6e37a4391701 (HEAD -> master, origin/master)
+Merge: 6babf42 474733f
+Author: hendweshubham <hendwe.shubham@gmail.com>
+Date:   Sun Apr 6 18:39:12 2025 +0530
+
+    Resolved merge conflict
+
+commit 6babf4267249a314ca7113caf190e3e73b8a499b
+Author: hendweshubham <hendwe.shubham@gmail.com>
+Date:   Sun Apr 6 18:36:26 2025 +0530
+
+    Main branch modified
+
+commit 474733f870bf4f61a90725d6ece53db7e955b1e5 (feature-config)
+Author: hendweshubham <hendwe.shubham@gmail.com>
+Date:   Sun Apr 6 18:30:06 2025 +0530
+
+    Feature branch modified
+
+commit f04e957ac82b7c3184c4db4edebb5bbb3e84724d
+Author: hendweshubham <hendwe.shubham@gmail.com>
+Date:   Sun Apr 6 18:26:44 2025 +0530
+
+    Initial commit with config file
